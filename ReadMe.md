@@ -1,0 +1,1 @@
+This is a solution to a challenge where you have to build a wall. You are given the length of the wall, X number of big bricks (5 inches each) and a Y number of small bricks (1 inch each). you need to write a method to see if you can build a wall exactly matching a specific length with the given materials. 
